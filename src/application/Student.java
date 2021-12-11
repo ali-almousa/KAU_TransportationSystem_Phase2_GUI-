@@ -164,16 +164,30 @@ public class Student implements Comparable<Student>, Cloneable{
 	 * @return Intended Arrival Time to the campus
 	 */
 	public int randomIntendedArrivalTime() {
-		// Random intended time of arriving at campus between 6AM to 10PM
-		  int randomTime = (int) (Math.random() * ( 32 ) + 1) * 30;
-		  if (randomTime == 960) {
-			  return randomTime;
-		  // if the random time is less than 60min (no classes at that time) add 60 more minutes
-		  } else if (randomTime < 60) {
-			  return randomTime + 60;
-		  }else 
-			  return randomTime;
+		double rand = Math.random();
+		int randomTime ;
+		//More random student in the rush hour between 6:00 AM - 10:00 AM 
+		if (rand <= 0.28) {
+			  randomTime = (int) (rand * ( 32 ) + 1) * 30;
+			  if (randomTime == 960) {
+				  return randomTime;
+			  } else if (randomTime < 60) {
+				  return randomTime + 60;
+			  }else 
+				  return randomTime;			  
+	    // Make the random range between 0 - 1
+		}else
+			
+			  randomTime = (int) (Math.random() * ( 32 ) + 1) * 30;
+			  if (randomTime == 960) {
+				  return randomTime;
+			  } else if (randomTime < 60) {
+				  return randomTime + 60;
+			  }else 
+				  return randomTime;  
+
 	}
+
 	/**
 	 * Compare show up times of students
 	 * 

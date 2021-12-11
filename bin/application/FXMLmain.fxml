@@ -70,7 +70,7 @@
       <Button id="ExportButtonP2" fx:id="ExportPhase2Button" layoutX="1332.0" layoutY="88.0" mnemonicParsing="false" onAction="#ExportPhase2" text="Export Phase2 TXT" />
       <TextArea fx:id="ReportTextAreaPhase1" layoutX="21.0" layoutY="206.0" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="542.0" prefWidth="712.0" promptText="Phase 1 Report" />
       <TextArea fx:id="TotalSummaryPhase1" layoutX="23.0" layoutY="796.0" prefHeight="107.0" prefWidth="712.0" />
-      <Button id="DaySummaryButton" fx:id="SearchIDButton" layoutX="125.0" layoutY="168.0" mnemonicParsing="false" onAction="#SearchIDButtonPopUp" prefHeight="30.0" prefWidth="185.0" text="Search Student By ID">
+      <Button id="DaySummaryButton" fx:id="SearchIDButton" layoutX="23.0" layoutY="168.0" mnemonicParsing="false" onAction="#SearchIDButtonPopUp" prefHeight="30.0" prefWidth="185.0" text="Search Student By ID">
          <font>
             <Font size="14.0" />
          </font>
@@ -107,5 +107,6 @@
             <Image url="@KAU.png" />
          </image>
       </ImageView>
+      <Button fx:id="OpenAboutButton" layoutX="1397.0" layoutY="31.0" mnemonicParsing="false" onAction="#About" text="About" />
    </children>
 </Pane>

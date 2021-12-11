@@ -1,0 +1,1591 @@
+Number of Days: 3
+Number of Busses: 15
+Numbebr of Students: 344,234,295
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& Pahse#2 Full Report &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+
+
+************************************************************ Day 1 *********************************************************************
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+ 									        Flights Information:
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	1		10	    6:10 AM	       6:40 AM       	     10			0	   100.00%	   Regular Flight      0
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1042350	     6:00 AM		7:00 AM		 true		 false
+	2	    1886455	     6:01 AM		7:00 AM		 true		 false
+	3	    1459545	     6:03 AM		7:00 AM		 true		 false
+	4	    1388577	     6:04 AM		7:00 AM		 true		 false
+	5	    1896626	     6:04 AM		7:00 AM		 true		 false
+	6	    1502108	     6:05 AM		7:00 AM		 true		 false
+	7	    1353334	     6:05 AM		7:00 AM		 true		 false
+	8	    1052194	     6:08 AM		7:00 AM		 true		 false
+	9	    1437562	     6:08 AM		7:00 AM		 true		 false
+	10	    1402104	     6:10 AM		7:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	2		5	    6:15 AM	       6:45 AM       	     5			0	   100.00%	   Regular Flight      1
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1231482	     6:10 AM		7:00 AM		 true		 false
+	2	    1097430	     6:12 AM		7:00 AM		 true		 true
+	3	    1511594	     6:12 AM		7:00 AM		 true		 false
+	4	    2140210	     6:13 AM		7:00 AM		 true		 false
+	5	    2033820	     6:14 AM		7:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	3		10	    6:23 AM	       6:53 AM       	     10			0	   100.00%	   Regular Flight      2
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1721256	     6:15 AM		7:00 AM		 true		 false
+	2	    1743432	     6:18 AM		7:00 AM		 true		 false
+	3	    1896403	     6:18 AM		7:00 AM		 true		 false
+	4	    1050982	     6:20 AM		7:00 AM		 true		 false
+	5	    1444950	     6:21 AM		7:00 AM		 true		 false
+	6	    1393393	     6:22 AM		7:00 AM		 true		 false
+	7	    1461052	     6:22 AM		7:00 AM		 true		 false
+	8	    1922057	     6:22 AM		7:00 AM		 true		 false
+	9	    1076854	     6:23 AM		7:00 AM		 true		 false
+	10	    1504858	     6:23 AM		7:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	4		7	    6:30 AM	       7:00 AM       	     7			0	   100.00%	   Regular Flight      3
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    2186175	     6:24 AM		7:00 AM		 true		 false
+	2	    1728734	     6:24 AM		7:00 AM		 true		 false
+	3	    2104228	     6:25 AM		7:00 AM		 true		 false
+	4	    1798600	     6:26 AM		7:00 AM		 true		 false
+	5	    1131636	     6:27 AM		7:00 AM		 true		 false
+	6	    1341874	     6:28 AM		7:00 AM		 true		 false
+	7	    1378227	     6:28 AM		7:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	5		10	    6:35 AM	       7:05 AM       	     10			0	   100.00%	   Regular Flight      4
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1638276	     6:30 AM		7:30 AM		 true		 false
+	2	    1324247	     6:30 AM		7:30 AM		 true		 false
+	3	    1659239	     6:31 AM		7:30 AM		 true		 false
+	4	    1673387	     6:32 AM		7:30 AM		 true		 false
+	5	    1781480	     6:32 AM		7:30 AM		 true		 false
+	6	    2149214	     6:32 AM		7:30 AM		 true		 false
+	7	    1457304	     6:32 AM		7:30 AM		 true		 false
+	8	    1556381	     6:33 AM		7:30 AM		 true		 false
+	9	    1941525	     6:35 AM		7:30 AM		 true		 false
+	10	    2007904	     6:35 AM		7:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	6		10	    6:39 AM	       7:09 AM       	     10			0	   100.00%	   Regular Flight      5
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1855268	     6:36 AM		7:30 AM		 true		 false
+	2	    1328920	     6:37 AM		7:30 AM		 true		 false
+	3	    1730759	     6:37 AM		7:30 AM		 true		 false
+	4	    1123311	     6:37 AM		7:30 AM		 true		 false
+	5	    1128417	     6:37 AM		7:30 AM		 true		 false
+	6	    1520630	     6:38 AM		7:30 AM		 true		 false
+	7	    1137152	     6:38 AM		7:30 AM		 true		 false
+	8	    2165924	     6:38 AM		7:30 AM		 true		 false
+	9	    1411767	     6:39 AM		7:30 AM		 true		 false
+	10	    1656826	     6:39 AM		7:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	7		9	    6:45 AM	       7:15 AM       	     9			0	   100.00%	   Regular Flight      6
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    2184614	     6:40 AM		7:30 AM		 true		 false
+	2	    1497494	     6:40 AM		7:30 AM		 true		 false
+	3	    2084740	     6:41 AM		7:30 AM		 true		 false
+	4	    1124624	     6:42 AM		7:30 AM		 true		 false
+	5	    1090463	     6:42 AM		7:30 AM		 true		 false
+	6	    1816851	     6:42 AM		7:30 AM		 true		 false
+	7	    1265565	     6:43 AM		7:30 AM		 true		 false
+	8	    1470533	     6:44 AM		7:30 AM		 true		 false
+	9	    1399041	     6:44 AM		7:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	8		10	    6:52 AM	       7:22 AM       	     10			0	   100.00%	   Regular Flight      7
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1664303	     6:45 AM		7:30 AM		 true		 false
+	2	    1204407	     6:46 AM		7:30 AM		 true		 false
+	3	    1189880	     6:46 AM		7:30 AM		 true		 false
+	4	    1114603	     6:48 AM		7:30 AM		 true		 false
+	5	    1207569	     6:50 AM		7:30 AM		 true		 false
+	6	    1665506	     6:50 AM		7:30 AM		 true		 false
+	7	    2150754	     6:51 AM		7:30 AM		 true		 false
+	8	    1791009	     6:51 AM		7:30 AM		 true		 false
+	9	    1008898	     6:52 AM		7:30 AM		 true		 false
+	10	    1688782	     6:52 AM		7:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	9		5	    7:00 AM	       7:30 AM       	     5			0	   100.00%	   Regular Flight      8
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1791620	     6:56 AM		7:30 AM		 true		 false
+	2	    1447806	     6:56 AM		7:30 AM		 true		 true
+	3	    1955611	     6:58 AM		7:30 AM		 true		 false
+	4	    1025292	     6:59 AM		7:30 AM		 true		 true
+	5	    1850631	     6:59 AM		7:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	10		9	    7:15 AM	       7:45 AM       	     9			0	   100.00%	   Regular Flight      9
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1184339	     7:00 AM		8:00 AM		 true		 false
+	2	    1930789	     7:02 AM		8:00 AM		 true		 false
+	3	    1505355	     7:02 AM		8:00 AM		 true		 false
+	4	    1395926	     7:03 AM		8:00 AM		 true		 false
+	5	    1825799	     7:05 AM		8:00 AM		 true		 false
+	6	    1171612	     7:07 AM		8:00 AM		 true		 false
+	7	    1723243	     7:10 AM		8:00 AM		 true		 false
+	8	    1577504	     7:13 AM		8:00 AM		 true		 false
+	9	    1477125	     7:14 AM		8:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	11		9	    7:30 AM	       8:00 AM       	     9			0	   100.00%	   Regular Flight      10
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1408768	     7:17 AM		8:00 AM		 true		 false
+	2	    1746297	     7:18 AM		8:00 AM		 true		 false
+	3	    1790769	     7:22 AM		8:00 AM		 true		 false
+	4	    1285031	     7:22 AM		8:00 AM		 true		 false
+	5	    1679692	     7:22 AM		8:00 AM		 true		 false
+	6	    1434542	     7:23 AM		8:00 AM		 true		 false
+	7	    2057394	     7:24 AM		8:00 AM		 true		 false
+	8	    1859271	     7:25 AM		8:00 AM		 true		 false
+	9	    1115812	     7:27 AM		8:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	12		10	    7:40 AM	       8:10 AM       	     10			0	   100.00%	   Regular Flight      11
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1479337	     7:30 AM		8:30 AM		 true		 false
+	2	    2183037	     7:30 AM		8:30 AM		 true		 false
+	3	    1282818	     7:31 AM		8:30 AM		 true		 false
+	4	    1276728	     7:31 AM		8:30 AM		 true		 false
+	5	    1855305	     7:32 AM		8:30 AM		 true		 false
+	6	    1874638	     7:34 AM		8:30 AM		 true		 false
+	7	    1163518	     7:37 AM		8:30 AM		 true		 false
+	8	    1355514	     7:38 AM		8:30 AM		 true		 false
+	9	    1039630	     7:38 AM		8:30 AM		 true		 false
+	10	    1802369	     7:40 AM		8:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	13		3	    7:45 AM	       8:15 AM       	     3			0	   100.00%	   Regular Flight      12
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1323567	     7:41 AM		8:30 AM		 true		 true
+	2	    2004044	     7:42 AM		8:30 AM		 true		 false
+	3	    1713311	     7:43 AM		8:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	14		8	    8:00 AM	       8:30 AM       	     8			0	   100.00%	   Regular Flight      13
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1399279	     7:46 AM		8:30 AM		 true		 false
+	2	    1878265	     7:48 AM		8:30 AM		 true		 false
+	3	    1105377	     7:49 AM		8:30 AM		 true		 false
+	4	    1626712	     7:51 AM		8:30 AM		 true		 false
+	5	    1401660	     7:51 AM		8:30 AM		 true		 false
+	6	    2029556	     7:52 AM		8:30 AM		 true		 false
+	7	    1733312	     7:54 AM		8:30 AM		 true		 false
+	8	    2146434	     7:57 AM		8:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	15		10	    8:14 AM	       8:44 AM       	     10			0	   100.00%	   Regular Flight      14
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    2141014	     8:00 AM		9:00 AM		 true		 false
+	2	    1278186	     8:03 AM		9:00 AM		 true		 false
+	3	    1525900	     8:06 AM		9:00 AM		 true		 false
+	4	    1015100	     8:07 AM		9:00 AM		 true		 false
+	5	    1760292	     8:09 AM		9:00 AM		 true		 true
+	6	    1995115	     8:09 AM		9:00 AM		 true		 false
+	7	    1870077	     8:10 AM		9:00 AM		 true		 false
+	8	    1955829	     8:10 AM		9:00 AM		 true		 false
+	9	    1730972	     8:10 AM		9:00 AM		 true		 false
+	10	    1393055	     8:14 AM		9:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	16		10	    8:53 AM	       9:23 AM       	     8			2	   80.00%	   Regular Flight      0
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1539823	     8:16 AM		9:00 AM		 false		 false
+	2	    2046516	     8:29 AM		9:00 AM		 false		 false
+	3	    2173229	     8:35 AM		9:30 AM		 true		 false
+	4	    1520238	     8:36 AM		9:30 AM		 true		 false
+	5	    2118488	     8:39 AM		9:30 AM		 true		 false
+	6	    1978614	     8:42 AM		9:30 AM		 true		 false
+	7	    1560040	     8:43 AM		9:30 AM		 true		 false
+	8	    1684660	     8:47 AM		9:30 AM		 true		 false
+	9	    1848743	     8:51 AM		9:30 AM		 true		 true
+	10	    1211716	     8:53 AM		9:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	17		10	    9:09 AM	       9:39 AM       	     5			5	   50.00%	   Regular Flight      1
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1468480	     8:56 AM		9:30 AM		 false		 false
+	2	    1101040	     8:57 AM		9:30 AM		 false		 false
+	3	    1499791	     8:57 AM		9:30 AM		 false		 true
+	4	    1619394	     8:58 AM		9:30 AM		 false		 false
+	5	    2180787	     8:59 AM		9:30 AM		 false		 false
+	6	    1878935	     9:04 AM		10:00 AM		 true		 false
+	7	    1125171	     9:04 AM		10:00 AM		 true		 false
+	8	    1640593	     9:05 AM		10:00 AM		 true		 false
+	9	    1630952	     9:06 AM		10:00 AM		 true		 false
+	10	    1078367	     9:09 AM		10:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	18		10	    9:26 AM	       9:56 AM       	     10			0	   100.00%	   Regular Flight      2
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1404435	     9:10 AM		10:00 AM		 true		 false
+	2	    1529932	     9:11 AM		10:00 AM		 true		 false
+	3	    1948624	     9:13 AM		10:00 AM		 true		 false
+	4	    1856868	     9:15 AM		10:00 AM		 true		 false
+	5	    2174000	     9:15 AM		10:00 AM		 true		 false
+	6	    1545890	     9:18 AM		10:00 AM		 true		 false
+	7	    1592773	     9:19 AM		10:00 AM		 true		 false
+	8	    2116009	     9:24 AM		10:00 AM		 true		 false
+	9	    1269641	     9:25 AM		10:00 AM		 true		 false
+	10	    1624925	     9:26 AM		10:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	19		10	    9:45 AM	       10:15 AM       	     7			3	   70.00%	   Regular Flight      3
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1971361	     9:28 AM		10:00 AM		 false		 false
+	2	    1497602	     9:29 AM		10:00 AM		 false		 false
+	3	    1628350	     9:29 AM		10:00 AM		 false		 false
+	4	    1093004	     9:33 AM		10:30 AM		 true		 false
+	5	    1627315	     9:34 AM		10:30 AM		 true		 false
+	6	    2084978	     9:36 AM		10:30 AM		 true		 false
+	7	    1298195	     9:41 AM		10:30 AM		 true		 false
+	8	    1491830	     9:42 AM		10:30 AM		 true		 false
+	9	    1911326	     9:42 AM		10:30 AM		 true		 false
+	10	    1732768	     9:45 AM		10:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	20		10	    10:04 AM	       10:34 AM       	     3			7	   30.00%	   Regular Flight      4
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    2068678	     9:46 AM		10:30 AM		 false		 false
+	2	    1501958	     9:52 AM		10:30 AM		 false		 false
+	3	    2112948	     9:52 AM		10:30 AM		 false		 false
+	4	    1211337	     9:53 AM		10:30 AM		 false		 false
+	5	    1149691	     9:55 AM		10:30 AM		 false		 true
+	6	    1442802	     9:56 AM		10:30 AM		 false		 false
+	7	    1819795	     9:57 AM		10:30 AM		 false		 false
+	8	    1490812	     10:02 AM		11:00 AM		 true		 false
+	9	    1512838	     10:04 AM		11:00 AM		 true		 true
+	10	    1498557	     10:04 AM		11:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	21		10	    11:01 AM	       11:31 AM       	     1			9	   10.00%	   Regular Flight      5
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1463976	     10:09 AM		11:00 AM		 false		 false
+	2	    1069762	     10:09 AM		11:00 AM		 false		 false
+	3	    1594509	     10:21 AM		11:00 AM		 false		 false
+	4	    1626991	     10:30 AM		11:30 AM		 false		 true
+	5	    1619514	     10:30 AM		11:30 AM		 false		 false
+	6	    1616237	     10:33 AM		11:30 AM		 false		 false
+	7	    1273647	     10:52 AM		11:30 AM		 false		 false
+	8	    1637780	     10:56 AM		11:30 AM		 false		 false
+	9	    1111448	     10:57 AM		11:30 AM		 false		 false
+	10	    2013181	     11:01 AM		12:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	22		10	    11:29 AM	       11:59 AM       	     10			0	   100.00%	   Regular Flight      6
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1562498	     11:07 AM		12:00 AM		 true		 false
+	2	    1359374	     11:08 AM		12:00 AM		 true		 false
+	3	    1502895	     11:08 AM		12:00 AM		 true		 false
+	4	    2050884	     11:11 AM		12:00 AM		 true		 false
+	5	    1786172	     11:15 AM		12:00 AM		 true		 true
+	6	    1064769	     11:22 AM		12:00 AM		 true		 false
+	7	    1736598	     11:24 AM		12:00 AM		 true		 false
+	8	    1546990	     11:28 AM		12:00 AM		 true		 false
+	9	    1236638	     11:28 AM		12:00 AM		 true		 false
+	10	    1680698	     11:29 AM		12:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	23		10	    11:53 AM	       12:23 AM       	     10			0	   100.00%	   Regular Flight      7
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1716845	     11:30 AM		12:30 AM		 true		 false
+	2	    1940780	     11:31 AM		12:30 AM		 true		 false
+	3	    1242678	     11:34 AM		12:30 AM		 true		 false
+	4	    1510727	     11:36 AM		12:30 AM		 true		 false
+	5	    1389240	     11:47 AM		12:30 AM		 true		 false
+	6	    2034542	     11:50 AM		12:30 AM		 true		 false
+	7	    1661685	     11:50 AM		12:30 AM		 true		 false
+	8	    2030582	     11:51 AM		12:30 AM		 true		 false
+	9	    1254506	     11:52 AM		12:30 AM		 true		 false
+	10	    1548963	     11:53 AM		12:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	24		10	    12:50 AM	       1:20 PM       	     2			8	   20.00%	   Regular Flight      8
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1497585	     11:53 AM		12:30 AM		 false		 false
+	2	    1517678	     11:57 AM		12:30 AM		 false		 false
+	3	    1481074	     12:00 AM		1:00 PM		 false		 false
+	4	    1436208	     12:08 AM		1:00 PM		 false		 false
+	5	    1310938	     12:14 AM		1:00 PM		 false		 false
+	6	    2046209	     12:21 AM		1:00 PM		 false		 false
+	7	    1421903	     12:26 AM		1:00 PM		 false		 false
+	8	    2065433	     12:26 AM		1:00 PM		 false		 true
+	9	    1868627	     12:30 AM		1:30 PM		 true		 false
+	10	    1963136	     12:50 AM		1:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	25		10	    1:33 PM	       2:03 PM       	     2			8	   20.00%	   Regular Flight      9
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    2189487	     12:57 AM		1:30 PM		 false		 false
+	2	    1581871	     12:58 AM		1:30 PM		 false		 false
+	3	    2154353	     1:07 PM		2:00 PM		 false		 false
+	4	    2186838	     1:11 PM		2:00 PM		 false		 false
+	5	    1110954	     1:12 PM		2:00 PM		 false		 false
+	6	    1127934	     1:16 PM		2:00 PM		 false		 false
+	7	    1505184	     1:25 PM		2:00 PM		 false		 false
+	8	    1088180	     1:25 PM		2:00 PM		 false		 false
+	9	    1101820	     1:32 PM		2:30 PM		 true		 true
+	10	    1719037	     1:33 PM		2:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	26		10	    2:17 PM	       2:47 PM       	     5			5	   50.00%	   Regular Flight      10
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1437992	     1:33 PM		2:30 PM		 false		 false
+	2	    1664408	     1:39 PM		2:30 PM		 false		 false
+	3	    1376271	     1:40 PM		2:30 PM		 false		 false
+	4	    1962404	     1:42 PM		2:30 PM		 false		 false
+	5	    2190039	     1:47 PM		2:30 PM		 false		 false
+	6	    1747108	     2:00 PM		3:00 PM		 true		 false
+	7	    1917857	     2:10 PM		3:00 PM		 true		 false
+	8	    1016712	     2:12 PM		3:00 PM		 true		 false
+	9	    2195365	     2:12 PM		3:00 PM		 true		 false
+	10	    1405046	     2:17 PM		3:00 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	27		10	    3:09 PM	       3:39 PM       	     3			7	   30.00%	   Regular Flight      11
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1911067	     2:23 PM		3:00 PM		 false		 false
+	2	    1564127	     2:30 PM		3:30 PM		 false		 false
+	3	    1276589	     2:41 PM		3:30 PM		 false		 false
+	4	    1023108	     2:43 PM		3:30 PM		 false		 false
+	5	    1065809	     2:51 PM		3:30 PM		 false		 false
+	6	    2193877	     2:54 PM		3:30 PM		 false		 false
+	7	    1227059	     2:55 PM		3:30 PM		 false		 false
+	8	    1821623	     3:05 PM		4:00 PM		 true		 false
+	9	    1926780	     3:07 PM		4:00 PM		 true		 false
+	10	    1215893	     3:09 PM		4:00 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	28		10	    4:06 PM	       4:36 PM       	     1			9	   10.00%	   Regular Flight      12
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    2187659	     3:20 PM		4:00 PM		 false		 false
+	2	    1227033	     3:21 PM		4:00 PM		 false		 false
+	3	    1067034	     3:26 PM		4:00 PM		 false		 false
+	4	    1655130	     3:31 PM		4:30 PM		 false		 false
+	5	    2062727	     3:31 PM		4:30 PM		 false		 true
+	6	    1774951	     3:39 PM		4:30 PM		 false		 false
+	7	    1185757	     3:49 PM		4:30 PM		 false		 false
+	8	    1617814	     3:56 PM		4:30 PM		 false		 false
+	9	    1161403	     3:59 PM		4:30 PM		 false		 false
+	10	    1884134	     4:06 PM		5:00 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	29		10	    4:44 PM	       5:14 PM       	     6			4	   60.00%	   Regular Flight      13
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1546822	     4:16 PM		5:00 PM		 false		 false
+	2	    2160356	     4:16 PM		5:00 PM		 false		 false
+	3	    1799624	     4:17 PM		5:00 PM		 false		 false
+	4	    1997242	     4:22 PM		5:00 PM		 false		 false
+	5	    1722519	     4:31 PM		5:30 PM		 true		 false
+	6	    1480347	     4:34 PM		5:30 PM		 true		 false
+	7	    1328186	     4:38 PM		5:30 PM		 true		 false
+	8	    1906366	     4:42 PM		5:30 PM		 true		 false
+	9	    1627325	     4:42 PM		5:30 PM		 true		 false
+	10	    1814285	     4:44 PM		5:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	30		10	    5:30 PM	       6:00 PM       	     6			4	   60.00%	   Regular Flight      14
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1401486	     4:46 PM		5:30 PM		 false		 false
+	2	    2019228	     4:48 PM		5:30 PM		 false		 false
+	3	    1417985	     4:50 PM		5:30 PM		 false		 false
+	4	    1111434	     4:53 PM		5:30 PM		 false		 true
+	5	    1414821	     5:05 PM		6:00 PM		 true		 false
+	6	    1983391	     5:10 PM		6:00 PM		 true		 false
+	7	    1416186	     5:11 PM		6:00 PM		 true		 false
+	8	    1422266	     5:12 PM		6:00 PM		 true		 false
+	9	    2004070	     5:13 PM		6:00 PM		 true		 false
+	10	    1558636	     5:30 PM		6:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	31		10	    6:07 PM	       6:37 PM       	     2			8	   20.00%	   Regular Flight      0
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1239097	     5:30 PM		6:30 PM		 false		 false
+	2	    1247728	     5:31 PM		6:30 PM		 false		 false
+	3	    2108453	     5:36 PM		6:30 PM		 false		 false
+	4	    1681959	     5:40 PM		6:30 PM		 false		 false
+	5	    1732128	     5:45 PM		6:30 PM		 false		 false
+	6	    1773918	     5:45 PM		6:30 PM		 false		 false
+	7	    1705317	     5:51 PM		6:30 PM		 false		 false
+	8	    1894970	     5:53 PM		6:30 PM		 false		 false
+	9	    1460655	     6:00 PM		7:00 PM		 true		 true
+	10	    1698865	     6:07 PM		7:00 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	32		10	    6:34 PM	       7:04 PM       	     4			6	   40.00%	   Regular Flight      1
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1494751	     6:09 PM		7:00 PM		 false		 false
+	2	    1573972	     6:10 PM		7:00 PM		 false		 false
+	3	    1211652	     6:13 PM		7:00 PM		 false		 false
+	4	    2057412	     6:24 PM		7:00 PM		 false		 false
+	5	    1071395	     6:24 PM		7:00 PM		 false		 false
+	6	    2046125	     6:27 PM		7:00 PM		 false		 false
+	7	    1132086	     6:30 PM		7:30 PM		 true		 false
+	8	    1641124	     6:30 PM		7:30 PM		 true		 false
+	9	    1621951	     6:34 PM		7:30 PM		 true		 false
+	10	    1146129	     6:34 PM		7:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	33		10	    7:12 PM	       7:42 PM       	     4			6	   40.00%	   Regular Flight      2
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1245744	     6:37 PM		7:30 PM		 false		 false
+	2	    1386094	     6:39 PM		7:30 PM		 false		 false
+	3	    1994975	     6:40 PM		7:30 PM		 false		 true
+	4	    1462087	     6:43 PM		7:30 PM		 false		 false
+	5	    1479560	     6:50 PM		7:30 PM		 false		 false
+	6	    1512080	     6:58 PM		7:30 PM		 false		 false
+	7	    1808026	     7:03 PM		8:00 PM		 true		 false
+	8	    1762660	     7:09 PM		8:00 PM		 true		 false
+	9	    2105967	     7:10 PM		8:00 PM		 true		 false
+	10	    1056231	     7:12 PM		8:00 PM		 true		 true
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	34		10	    7:48 PM	       8:18 PM       	     7			3	   70.00%	   Regular Flight      3
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1773499	     7:15 PM		8:00 PM		 false		 false
+	2	    1733809	     7:18 PM		8:00 PM		 false		 true
+	3	    1549450	     7:20 PM		8:00 PM		 false		 false
+	4	    2113318	     7:30 PM		8:30 PM		 true		 false
+	5	    1032200	     7:31 PM		8:30 PM		 true		 false
+	6	    1455762	     7:35 PM		8:30 PM		 true		 false
+	7	    1184967	     7:38 PM		8:30 PM		 true		 false
+	8	    1045570	     7:42 PM		8:30 PM		 true		 false
+	9	    2099431	     7:44 PM		8:30 PM		 true		 false
+	10	    1668623	     7:48 PM		8:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	35		10	    8:23 PM	       8:53 PM       	     8			2	   80.00%	   Regular Flight      4
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1078557	     7:52 PM		8:30 PM		 false		 false
+	2	    1307052	     7:58 PM		8:30 PM		 false		 false
+	3	    2007928	     8:04 PM		9:00 PM		 true		 false
+	4	    1753814	     8:04 PM		9:00 PM		 true		 false
+	5	    2160676	     8:14 PM		9:00 PM		 true		 false
+	6	    2024545	     8:16 PM		9:00 PM		 true		 false
+	7	    1929412	     8:18 PM		9:00 PM		 true		 false
+	8	    2072749	     8:18 PM		9:00 PM		 true		 false
+	9	    1764332	     8:20 PM		9:00 PM		 true		 true
+	10	    1857695	     8:23 PM		9:00 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	36		10	    8:56 PM	       9:26 PM       	     7			3	   70.00%	   Regular Flight      5
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1892948	     8:25 PM		9:00 PM		 false		 false
+	2	    1293565	     8:27 PM		9:00 PM		 false		 false
+	3	    1761275	     8:27 PM		9:00 PM		 false		 false
+	4	    2131877	     8:31 PM		9:30 PM		 true		 false
+	5	    2082831	     8:34 PM		9:30 PM		 true		 false
+	6	    1535459	     8:39 PM		9:30 PM		 true		 false
+	7	    2091308	     8:41 PM		9:30 PM		 true		 false
+	8	    1365927	     8:53 PM		9:30 PM		 true		 false
+	9	    1140046	     8:54 PM		9:30 PM		 true		 false
+	10	    1164574	     8:56 PM		9:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	37		9	    8:15 AM	       8:45 AM       	     9			0	   100.00%	   Regular Flight      6
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    2015260	     8:57 PM		9:30 PM		 true		 false
+	2	    1155761	     8:58 PM		9:30 PM		 true		 false
+	3	    1019857	     9:08 PM		10:00 PM		 true		 false
+	4	    1905381	     9:09 PM		10:00 PM		 true		 false
+	5	    1478152	     9:13 PM		10:00 PM		 true		 false
+	6	    2196925	     9:14 PM		10:00 PM		 true		 false
+	7	    1028180	     9:19 PM		10:00 PM		 true		 false
+	8	    1293704	     9:22 PM		10:00 PM		 true		 false
+	9	    1324589	     9:24 PM		10:00 PM		 true		 false
+
+			--------------------------------------------------------------------------------------------------------------
+			 				     	   	            Bus Information:
+			--------------------------------------------------------------------------------------------------------------
+			    BusID	 Moved-Distance KM	 FuelConsumbtion L 	 Number Of Trips	Students Delivered
+			    0	           109.20	           30.00		       3		       30
+			    1	           109.20	           30.00		       3		       25
+			    2	           109.20	           30.00		       3		       30
+			    3	           109.20	           30.00		       3		       27
+			    4	           109.20	           30.00		       3		       30
+			    5	           109.20	           30.00		       3		       30
+			    6	           109.20	           30.00		       3		       28
+			    7	           72.80	           20.00		       2		       20
+			    8	           72.80	           20.00		       2		       15
+			    9	           72.80	           20.00		       2		       19
+			    10	           72.80	           20.00		       2		       19
+			    11	           72.80	           20.00		       2		       20
+			    12	           72.80	           20.00		       2		       13
+			    13	           72.80	           20.00		       2		       18
+			    14	           72.80	           20.00		       2		       20
+
+
+************************************************************ Day 2 *********************************************************************
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+ 									        Flights Information:
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	1		10	    6:20 AM	       6:50 AM       	     10			0	   100.00%	   Regular Flight      0
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1619417	     6:03 AM		7:00 AM		 true		 false
+	2	    2139789	     6:08 AM		7:00 AM		 true		 false
+	3	    1038283	     6:08 AM		7:00 AM		 true		 true
+	4	    1531293	     6:08 AM		7:00 AM		 true		 false
+	5	    1946060	     6:11 AM		7:00 AM		 true		 false
+	6	    1054775	     6:11 AM		7:00 AM		 true		 true
+	7	    1166118	     6:15 AM		7:00 AM		 true		 false
+	8	    1533394	     6:17 AM		7:00 AM		 true		 false
+	9	    1520864	     6:20 AM		7:00 AM		 true		 false
+	10	    2134261	     6:20 AM		7:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	2		6	    6:30 AM	       7:00 AM       	     6			0	   100.00%	   Regular Flight      1
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1291288	     6:21 AM		7:00 AM		 true		 false
+	2	    1701033	     6:25 AM		7:00 AM		 true		 false
+	3	    2009618	     6:26 AM		7:00 AM		 true		 false
+	4	    1543764	     6:27 AM		7:00 AM		 true		 false
+	5	    1877001	     6:27 AM		7:00 AM		 true		 false
+	6	    1082915	     6:28 AM		7:00 AM		 true		 true
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	3		10	    6:46 AM	       7:16 AM       	     10			0	   100.00%	   Regular Flight      2
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1824424	     6:33 AM		7:30 AM		 true		 false
+	2	    1511286	     6:35 AM		7:30 AM		 true		 false
+	3	    1495163	     6:36 AM		7:30 AM		 true		 false
+	4	    1420970	     6:37 AM		7:30 AM		 true		 false
+	5	    1703164	     6:44 AM		7:30 AM		 true		 false
+	6	    1263228	     6:44 AM		7:30 AM		 true		 false
+	7	    1196632	     6:44 AM		7:30 AM		 true		 false
+	8	    1521490	     6:45 AM		7:30 AM		 true		 false
+	9	    1290077	     6:46 AM		7:30 AM		 true		 false
+	10	    1653139	     6:46 AM		7:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	4		10	    6:52 AM	       7:22 AM       	     10			0	   100.00%	   Regular Flight      3
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1900967	     6:47 AM		7:30 AM		 true		 false
+	2	    1861270	     6:48 AM		7:30 AM		 true		 false
+	3	    1665207	     6:49 AM		7:30 AM		 true		 false
+	4	    1965632	     6:50 AM		7:30 AM		 true		 false
+	5	    2040448	     6:50 AM		7:30 AM		 true		 false
+	6	    1460213	     6:51 AM		7:30 AM		 true		 false
+	7	    1280510	     6:51 AM		7:30 AM		 true		 false
+	8	    2093299	     6:52 AM		7:30 AM		 true		 false
+	9	    1098307	     6:52 AM		7:30 AM		 true		 false
+	10	    1971641	     6:52 AM		7:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	5		4	    7:00 AM	       7:30 AM       	     4			0	   100.00%	   Regular Flight      4
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1126140	     6:54 AM		7:30 AM		 true		 false
+	2	    1107808	     6:55 AM		7:30 AM		 true		 false
+	3	    1265466	     6:55 AM		7:30 AM		 true		 false
+	4	    2098101	     6:57 AM		7:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	6		10	    7:22 AM	       7:52 AM       	     10			0	   100.00%	   Regular Flight      5
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1238302	     7:00 AM		8:00 AM		 true		 false
+	2	    2131693	     7:04 AM		8:00 AM		 true		 false
+	3	    2043752	     7:06 AM		8:00 AM		 true		 false
+	4	    1437221	     7:10 AM		8:00 AM		 true		 false
+	5	    1821565	     7:15 AM		8:00 AM		 true		 false
+	6	    1674687	     7:16 AM		8:00 AM		 true		 false
+	7	    1901784	     7:17 AM		8:00 AM		 true		 false
+	8	    1212994	     7:18 AM		8:00 AM		 true		 false
+	9	    1606011	     7:21 AM		8:00 AM		 true		 false
+	10	    1831457	     7:22 AM		8:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	7		3	    7:30 AM	       8:00 AM       	     3			0	   100.00%	   Regular Flight      6
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1672328	     7:26 AM		8:00 AM		 true		 false
+	2	    1972687	     7:27 AM		8:00 AM		 true		 false
+	3	    1802813	     7:28 AM		8:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	8		10	    7:55 AM	       8:25 AM       	     10			0	   100.00%	   Regular Flight      7
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1888282	     7:30 AM		8:30 AM		 true		 false
+	2	    2003584	     7:32 AM		8:30 AM		 true		 false
+	3	    1417142	     7:34 AM		8:30 AM		 true		 false
+	4	    2134502	     7:38 AM		8:30 AM		 true		 false
+	5	    1338926	     7:39 AM		8:30 AM		 true		 true
+	6	    1800727	     7:48 AM		8:30 AM		 true		 false
+	7	    1643421	     7:50 AM		8:30 AM		 true		 false
+	8	    1715058	     7:51 AM		8:30 AM		 true		 false
+	9	    2106392	     7:51 AM		8:30 AM		 true		 false
+	10	    1119381	     7:55 AM		8:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	9		3	    8:00 AM	       8:30 AM       	     3			0	   100.00%	   Regular Flight      8
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    2093733	     7:58 AM		8:30 AM		 true		 false
+	2	    1588258	     7:58 AM		8:30 AM		 true		 true
+	3	    2090034	     7:58 AM		8:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	10		10	    8:22 AM	       8:52 AM       	     10			0	   100.00%	   Regular Flight      9
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1847113	     8:01 AM		9:00 AM		 true		 false
+	2	    1634841	     8:07 AM		9:00 AM		 true		 false
+	3	    2070389	     8:11 AM		9:00 AM		 true		 false
+	4	    1514776	     8:12 AM		9:00 AM		 true		 false
+	5	    2055766	     8:14 AM		9:00 AM		 true		 false
+	6	    2101529	     8:14 AM		9:00 AM		 true		 false
+	7	    1554853	     8:14 AM		9:00 AM		 true		 false
+	8	    2050774	     8:16 AM		9:00 AM		 true		 false
+	9	    1472250	     8:18 AM		9:00 AM		 true		 false
+	10	    1654381	     8:22 AM		9:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	11		5	    8:30 AM	       9:00 AM       	     5			0	   100.00%	   Regular Flight      10
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1231722	     8:22 AM		9:00 AM		 true		 false
+	2	    1899941	     8:24 AM		9:00 AM		 true		 false
+	3	    1713342	     8:25 AM		9:00 AM		 true		 false
+	4	    2164447	     8:26 AM		9:00 AM		 true		 false
+	5	    1069740	     8:27 AM		9:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	12		10	    8:51 AM	       9:21 AM       	     10			0	   100.00%	   Regular Flight      11
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1826619	     8:32 AM		9:30 AM		 true		 false
+	2	    1433962	     8:32 AM		9:30 AM		 true		 false
+	3	    1870925	     8:36 AM		9:30 AM		 true		 false
+	4	    1632446	     8:36 AM		9:30 AM		 true		 false
+	5	    1424504	     8:38 AM		9:30 AM		 true		 false
+	6	    1223824	     8:39 AM		9:30 AM		 true		 false
+	7	    1665904	     8:44 AM		9:30 AM		 true		 false
+	8	    2106372	     8:45 AM		9:30 AM		 true		 false
+	9	    1317527	     8:46 AM		9:30 AM		 true		 true
+	10	    1579100	     8:51 AM		9:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	13		3	    9:00 AM	       9:30 AM       	     3			0	   100.00%	   Regular Flight      12
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1330255	     8:54 AM		9:30 AM		 true		 false
+	2	    1281225	     8:55 AM		9:30 AM		 true		 false
+	3	    1631086	     8:56 AM		9:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	14		10	    9:26 AM	       9:56 AM       	     10			0	   100.00%	   Regular Flight      13
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    2014503	     9:00 AM		10:00 AM		 true		 false
+	2	    1305633	     9:01 AM		10:00 AM		 true		 false
+	3	    1238074	     9:02 AM		10:00 AM		 true		 false
+	4	    1012023	     9:05 AM		10:00 AM		 true		 false
+	5	    1239722	     9:10 AM		10:00 AM		 true		 false
+	6	    1750083	     9:11 AM		10:00 AM		 true		 false
+	7	    1009255	     9:14 AM		10:00 AM		 true		 false
+	8	    1634729	     9:20 AM		10:00 AM		 true		 false
+	9	    1313028	     9:24 AM		10:00 AM		 true		 false
+	10	    1233894	     9:26 AM		10:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	15		2	    9:30 AM	       10:00 AM       	     2			0	   100.00%	   Regular Flight      14
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1173348	     9:26 AM		10:00 AM		 true		 false
+	2	    1414112	     9:26 AM		10:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	16		10	    9:47 AM	       10:17 AM       	     10			0	   100.00%	   Regular Flight      0
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1191013	     9:31 AM		10:30 AM		 true		 false
+	2	    1162588	     9:32 AM		10:30 AM		 true		 false
+	3	    1721733	     9:34 AM		10:30 AM		 true		 false
+	4	    1694193	     9:35 AM		10:30 AM		 true		 false
+	5	    1512383	     9:39 AM		10:30 AM		 true		 false
+	6	    2081123	     9:40 AM		10:30 AM		 true		 false
+	7	    2190701	     9:40 AM		10:30 AM		 true		 false
+	8	    1289063	     9:41 AM		10:30 AM		 true		 false
+	9	    1366884	     9:46 AM		10:30 AM		 true		 false
+	10	    1596092	     9:47 AM		10:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	17		7	    10:00 AM	       10:30 AM       	     7			0	   100.00%	   Regular Flight      1
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1020867	     9:51 AM		10:30 AM		 true		 false
+	2	    1861653	     9:51 AM		10:30 AM		 true		 true
+	3	    1343121	     9:56 AM		10:30 AM		 true		 false
+	4	    1912862	     9:58 AM		10:30 AM		 true		 false
+	5	    2192203	     9:59 AM		10:30 AM		 true		 false
+	6	    1844301	     9:59 AM		10:30 AM		 true		 false
+	7	    2067657	     9:59 AM		10:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	18		3	    10:30 AM	       11:00 AM       	     3			0	   100.00%	   Regular Flight      2
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1476825	     10:00 AM		11:00 AM		 true		 false
+	2	    1880066	     10:26 AM		11:00 AM		 true		 false
+	3	    2104409	     10:29 AM		11:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	19		5	    11:00 AM	       11:30 AM       	     5			0	   100.00%	   Regular Flight      3
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1579728	     10:33 AM		11:30 AM		 true		 false
+	2	    1701143	     10:37 AM		11:30 AM		 true		 false
+	3	    1840955	     10:49 AM		11:30 AM		 true		 false
+	4	    1318222	     10:49 AM		11:30 AM		 true		 false
+	5	    1511178	     10:59 AM		11:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	20		8	    11:30 AM	       12:00 AM       	     8			0	   100.00%	   Regular Flight      4
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1579621	     11:01 AM		12:00 AM		 true		 false
+	2	    1428069	     11:05 AM		12:00 AM		 true		 false
+	3	    1148904	     11:11 AM		12:00 AM		 true		 false
+	4	    1578500	     11:14 AM		12:00 AM		 true		 false
+	5	    1758556	     11:15 AM		12:00 AM		 true		 false
+	6	    1594942	     11:16 AM		12:00 AM		 true		 false
+	7	    1913053	     11:22 AM		12:00 AM		 true		 false
+	8	    1676716	     11:26 AM		12:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	21		5	    12:00 AM	       12:30 AM       	     5			0	   100.00%	   Regular Flight      5
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1900488	     11:38 AM		12:30 AM		 true		 false
+	2	    1014849	     11:39 AM		12:30 AM		 true		 false
+	3	    1931436	     11:46 AM		12:30 AM		 true		 false
+	4	    1375891	     11:46 AM		12:30 AM		 true		 false
+	5	    1344386	     11:54 AM		12:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	22		7	    12:30 AM	       1:00 PM       	     7			0	   100.00%	   Regular Flight      6
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1583277	     12:04 AM		1:00 PM		 true		 false
+	2	    1458390	     12:05 AM		1:00 PM		 true		 false
+	3	    1953672	     12:05 AM		1:00 PM		 true		 false
+	4	    1004187	     12:12 AM		1:00 PM		 true		 false
+	5	    1610504	     12:13 AM		1:00 PM		 true		 false
+	6	    1065907	     12:13 AM		1:00 PM		 true		 false
+	7	    1085007	     12:28 AM		1:00 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	23		10	    1:54 PM	       2:24 PM       	     1			9	   10.00%	   Regular Flight      7
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    2058632	     12:36 AM		1:30 PM		 false		 false
+	2	    1605196	     12:48 AM		1:30 PM		 false		 false
+	3	    1923565	     12:58 AM		1:30 PM		 false		 false
+	4	    2086493	     12:58 AM		1:30 PM		 false		 false
+	5	    2096750	     1:03 PM		2:00 PM		 false		 false
+	6	    1033482	     1:10 PM		2:00 PM		 false		 false
+	7	    1065924	     1:14 PM		2:00 PM		 false		 false
+	8	    1173019	     1:15 PM		2:00 PM		 false		 false
+	9	    1365161	     1:22 PM		2:00 PM		 false		 false
+	10	    2012247	     1:54 PM		2:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	24		10	    2:45 PM	       3:15 PM       	     5			5	   50.00%	   Regular Flight      8
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1634627	     2:04 PM		3:00 PM		 false		 false
+	2	    1426334	     2:07 PM		3:00 PM		 false		 false
+	3	    1452589	     2:12 PM		3:00 PM		 false		 false
+	4	    1745647	     2:19 PM		3:00 PM		 false		 true
+	5	    1312408	     2:21 PM		3:00 PM		 false		 false
+	6	    2010890	     2:31 PM		3:30 PM		 true		 false
+	7	    1183632	     2:34 PM		3:30 PM		 true		 false
+	8	    1940083	     2:35 PM		3:30 PM		 true		 false
+	9	    2186095	     2:43 PM		3:30 PM		 true		 true
+	10	    1318859	     2:45 PM		3:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	25		10	    3:40 PM	       4:10 PM       	     3			7	   30.00%	   Regular Flight      9
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1087928	     2:49 PM		3:30 PM		 false		 false
+	2	    2090232	     2:55 PM		3:30 PM		 false		 false
+	3	    2090806	     3:07 PM		4:00 PM		 false		 false
+	4	    1150216	     3:15 PM		4:00 PM		 false		 false
+	5	    1508762	     3:17 PM		4:00 PM		 false		 false
+	6	    2160135	     3:23 PM		4:00 PM		 false		 false
+	7	    1721310	     3:27 PM		4:00 PM		 false		 false
+	8	    1097494	     3:30 PM		4:30 PM		 true		 false
+	9	    1768968	     3:30 PM		4:30 PM		 true		 false
+	10	    1561922	     3:40 PM		4:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	26		10	    4:58 PM	       5:28 PM       	     4			6	   40.00%	   Regular Flight      10
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1879284	     4:04 PM		5:00 PM		 false		 false
+	2	    1430837	     4:07 PM		5:00 PM		 false		 false
+	3	    1562356	     4:13 PM		5:00 PM		 false		 false
+	4	    1376042	     4:21 PM		5:00 PM		 false		 false
+	5	    1937547	     4:23 PM		5:00 PM		 false		 false
+	6	    1662160	     4:27 PM		5:00 PM		 false		 false
+	7	    1662725	     4:44 PM		5:30 PM		 true		 true
+	8	    1186743	     4:47 PM		5:30 PM		 true		 false
+	9	    1691184	     4:49 PM		5:30 PM		 true		 false
+	10	    1710968	     4:58 PM		5:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	27		10	    6:03 PM	       6:33 PM       	     2			8	   20.00%	   Regular Flight      11
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1934416	     5:17 PM		6:00 PM		 false		 false
+	2	    1544139	     5:37 PM		6:30 PM		 false		 false
+	3	    1123656	     5:41 PM		6:30 PM		 false		 false
+	4	    1306597	     5:45 PM		6:30 PM		 false		 false
+	5	    2030545	     5:45 PM		6:30 PM		 false		 false
+	6	    2067363	     5:49 PM		6:30 PM		 false		 false
+	7	    1394797	     5:58 PM		6:30 PM		 false		 false
+	8	    1700581	     5:58 PM		6:30 PM		 false		 false
+	9	    1355658	     6:01 PM		7:00 PM		 true		 false
+	10	    2165588	     6:03 PM		7:00 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	28		10	    6:32 PM	       7:02 PM       	     2			8	   20.00%	   Regular Flight      12
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    2019849	     6:09 PM		7:00 PM		 false		 false
+	2	    1653396	     6:20 PM		7:00 PM		 false		 false
+	3	    2017311	     6:21 PM		7:00 PM		 false		 false
+	4	    1748393	     6:22 PM		7:00 PM		 false		 false
+	5	    1748344	     6:22 PM		7:00 PM		 false		 false
+	6	    1315563	     6:22 PM		7:00 PM		 false		 false
+	7	    1211417	     6:23 PM		7:00 PM		 false		 false
+	8	    1419068	     6:28 PM		7:00 PM		 false		 false
+	9	    1138389	     6:30 PM		7:30 PM		 true		 false
+	10	    1023322	     6:32 PM		7:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	29		10	    7:33 PM	       8:03 PM       	     3			7	   30.00%	   Regular Flight      13
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1651813	     6:41 PM		7:30 PM		 false		 false
+	2	    1809303	     6:44 PM		7:30 PM		 false		 false
+	3	    1453280	     6:47 PM		7:30 PM		 false		 false
+	4	    1055344	     6:50 PM		7:30 PM		 false		 false
+	5	    1537300	     7:17 PM		8:00 PM		 false		 false
+	6	    1440797	     7:21 PM		8:00 PM		 false		 false
+	7	    1528269	     7:29 PM		8:00 PM		 false		 false
+	8	    1477056	     7:31 PM		8:30 PM		 true		 false
+	9	    1698710	     7:33 PM		8:30 PM		 true		 false
+	10	    1698534	     7:33 PM		8:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	30		10	    8:52 PM	       9:22 PM       	     5			5	   50.00%	   Regular Flight      14
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1487932	     7:41 PM		8:30 PM		 false		 true
+	2	    1359248	     8:00 PM		9:00 PM		 false		 false
+	3	    2096560	     8:00 PM		9:00 PM		 false		 false
+	4	    1145160	     8:03 PM		9:00 PM		 false		 false
+	5	    1533190	     8:21 PM		9:00 PM		 false		 false
+	6	    1002305	     8:34 PM		9:30 PM		 true		 false
+	7	    1335033	     8:38 PM		9:30 PM		 true		 false
+	8	    1203286	     8:43 PM		9:30 PM		 true		 false
+	9	    1764391	     8:48 PM		9:30 PM		 true		 false
+	10	    1442751	     8:52 PM		9:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	31		3	    7:30 AM	       8:00 AM       	     3			0	   100.00%	   Regular Flight      0
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    2007681	     9:12 PM		10:00 PM		 true		 false
+	2	    2176002	     9:25 PM		10:00 PM		 true		 false
+	3	    1904310	     9:29 PM		10:00 PM		 true		 false
+
+			--------------------------------------------------------------------------------------------------------------
+			 				     	   	            Bus Information:
+			--------------------------------------------------------------------------------------------------------------
+			    BusID	 Moved-Distance KM	 FuelConsumbtion L 	 Number Of Trips	Students Delivered
+			    0	           109.20	           30.00		       3		       23
+			    1	           72.80	           20.00		       2		       13
+			    2	           72.80	           20.00		       2		       13
+			    3	           72.80	           20.00		       2		       15
+			    4	           72.80	           20.00		       2		       12
+			    5	           72.80	           20.00		       2		       15
+			    6	           72.80	           20.00		       2		       10
+			    7	           72.80	           20.00		       2		       20
+			    8	           72.80	           20.00		       2		       13
+			    9	           72.80	           20.00		       2		       20
+			    10	           72.80	           20.00		       2		       15
+			    11	           72.80	           20.00		       2		       20
+			    12	           72.80	           20.00		       2		       13
+			    13	           72.80	           20.00		       2		       20
+			    14	           72.80	           20.00		       2		       12
+
+
+************************************************************ Day 3 *********************************************************************
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+ 									        Flights Information:
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	1		10	    6:23 AM	       6:53 AM       	     10			0	   100.00%	   Regular Flight      0
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1092299	     6:07 AM		7:00 AM		 true		 false
+	2	    2134829	     6:08 AM		7:00 AM		 true		 false
+	3	    1490895	     6:09 AM		7:00 AM		 true		 false
+	4	    1842653	     6:11 AM		7:00 AM		 true		 false
+	5	    1254002	     6:15 AM		7:00 AM		 true		 false
+	6	    1172013	     6:17 AM		7:00 AM		 true		 false
+	7	    1547460	     6:17 AM		7:00 AM		 true		 false
+	8	    1431710	     6:20 AM		7:00 AM		 true		 false
+	9	    1851206	     6:20 AM		7:00 AM		 true		 false
+	10	    1293969	     6:23 AM		7:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	2		3	    6:30 AM	       7:00 AM       	     3			0	   100.00%	   Regular Flight      1
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1655222	     6:23 AM		7:00 AM		 true		 false
+	2	    1283010	     6:29 AM		7:00 AM		 true		 false
+	3	    1694666	     6:29 AM		7:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	3		10	    6:34 AM	       7:04 AM       	     10			0	   100.00%	   Regular Flight      2
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1710908	     6:30 AM		7:30 AM		 true		 false
+	2	    1780679	     6:30 AM		7:30 AM		 true		 false
+	3	    1908946	     6:30 AM		7:30 AM		 true		 false
+	4	    2173306	     6:31 AM		7:30 AM		 true		 false
+	5	    2197683	     6:31 AM		7:30 AM		 true		 false
+	6	    1709574	     6:31 AM		7:30 AM		 true		 false
+	7	    1617108	     6:31 AM		7:30 AM		 true		 false
+	8	    1461777	     6:34 AM		7:30 AM		 true		 false
+	9	    1842973	     6:34 AM		7:30 AM		 true		 false
+	10	    1369602	     6:34 AM		7:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	4		10	    6:43 AM	       7:13 AM       	     10			0	   100.00%	   Regular Flight      3
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1998015	     6:35 AM		7:30 AM		 true		 false
+	2	    1830683	     6:36 AM		7:30 AM		 true		 false
+	3	    1738324	     6:37 AM		7:30 AM		 true		 false
+	4	    1369521	     6:38 AM		7:30 AM		 true		 false
+	5	    1829148	     6:38 AM		7:30 AM		 true		 false
+	6	    1294280	     6:39 AM		7:30 AM		 true		 false
+	7	    1952292	     6:39 AM		7:30 AM		 true		 false
+	8	    1598339	     6:41 AM		7:30 AM		 true		 true
+	9	    1982839	     6:42 AM		7:30 AM		 true		 false
+	10	    2112507	     6:43 AM		7:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	5		10	    6:50 AM	       7:20 AM       	     10			0	   100.00%	   Regular Flight      4
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    2162302	     6:43 AM		7:30 AM		 true		 false
+	2	    1321206	     6:44 AM		7:30 AM		 true		 false
+	3	    1379374	     6:46 AM		7:30 AM		 true		 false
+	4	    1611375	     6:46 AM		7:30 AM		 true		 false
+	5	    1562776	     6:47 AM		7:30 AM		 true		 false
+	6	    1576918	     6:49 AM		7:30 AM		 true		 false
+	7	    1097586	     6:49 AM		7:30 AM		 true		 false
+	8	    1753884	     6:50 AM		7:30 AM		 true		 false
+	9	    1778772	     6:50 AM		7:30 AM		 true		 false
+	10	    1071461	     6:50 AM		7:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	6		9	    7:00 AM	       7:30 AM       	     9			0	   100.00%	   Regular Flight      5
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    2075366	     6:50 AM		7:30 AM		 true		 false
+	2	    1330465	     6:51 AM		7:30 AM		 true		 false
+	3	    1892242	     6:54 AM		7:30 AM		 true		 false
+	4	    1554549	     6:55 AM		7:30 AM		 true		 false
+	5	    2065697	     6:56 AM		7:30 AM		 true		 false
+	6	    1789921	     6:57 AM		7:30 AM		 true		 false
+	7	    1645571	     6:57 AM		7:30 AM		 true		 false
+	8	    2126314	     6:58 AM		7:30 AM		 true		 false
+	9	    1849626	     6:59 AM		7:30 AM		 true		 true
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	7		10	    7:23 AM	       7:53 AM       	     10			0	   100.00%	   Regular Flight      6
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1155635	     7:01 AM		8:00 AM		 true		 false
+	2	    2093689	     7:04 AM		8:00 AM		 true		 false
+	3	    1827871	     7:04 AM		8:00 AM		 true		 false
+	4	    2198616	     7:11 AM		8:00 AM		 true		 false
+	5	    1221187	     7:11 AM		8:00 AM		 true		 false
+	6	    1007000	     7:13 AM		8:00 AM		 true		 false
+	7	    1445381	     7:14 AM		8:00 AM		 true		 false
+	8	    1594214	     7:22 AM		8:00 AM		 true		 false
+	9	    2086977	     7:23 AM		8:00 AM		 true		 false
+	10	    1043535	     7:23 AM		8:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	8		5	    7:30 AM	       8:00 AM       	     5			0	   100.00%	   Regular Flight      7
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1749138	     7:26 AM		8:00 AM		 true		 false
+	2	    1189845	     7:26 AM		8:00 AM		 true		 false
+	3	    1700097	     7:26 AM		8:00 AM		 true		 false
+	4	    1789273	     7:27 AM		8:00 AM		 true		 false
+	5	    1435963	     7:28 AM		8:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	9		10	    7:51 AM	       8:21 AM       	     10			0	   100.00%	   Regular Flight      8
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1942272	     7:30 AM		8:30 AM		 true		 false
+	2	    1993654	     7:32 AM		8:30 AM		 true		 false
+	3	    1552899	     7:33 AM		8:30 AM		 true		 false
+	4	    2124230	     7:39 AM		8:30 AM		 true		 false
+	5	    1375170	     7:40 AM		8:30 AM		 true		 false
+	6	    2053320	     7:40 AM		8:30 AM		 true		 true
+	7	    2149427	     7:44 AM		8:30 AM		 true		 false
+	8	    2115120	     7:45 AM		8:30 AM		 true		 false
+	9	    1177060	     7:45 AM		8:30 AM		 true		 false
+	10	    1044282	     7:51 AM		8:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	10		5	    8:00 AM	       8:30 AM       	     5			0	   100.00%	   Regular Flight      9
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1818260	     7:55 AM		8:30 AM		 true		 false
+	2	    1421320	     7:55 AM		8:30 AM		 true		 false
+	3	    1396752	     7:56 AM		8:30 AM		 true		 true
+	4	    2174774	     7:56 AM		8:30 AM		 true		 false
+	5	    2176067	     7:57 AM		8:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	11		10	    8:15 AM	       8:45 AM       	     10			0	   100.00%	   Regular Flight      10
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1917555	     8:00 AM		9:00 AM		 true		 false
+	2	    1028155	     8:01 AM		9:00 AM		 true		 false
+	3	    1180919	     8:02 AM		9:00 AM		 true		 false
+	4	    1232691	     8:04 AM		9:00 AM		 true		 false
+	5	    1032718	     8:05 AM		9:00 AM		 true		 false
+	6	    1151402	     8:06 AM		9:00 AM		 true		 false
+	7	    2119123	     8:09 AM		9:00 AM		 true		 false
+	8	    1783968	     8:09 AM		9:00 AM		 true		 false
+	9	    1665872	     8:10 AM		9:00 AM		 true		 false
+	10	    1779974	     8:15 AM		9:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	12		7	    8:30 AM	       9:00 AM       	     7			0	   100.00%	   Regular Flight      11
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1706437	     8:19 AM		9:00 AM		 true		 false
+	2	    2089228	     8:21 AM		9:00 AM		 true		 false
+	3	    1183352	     8:24 AM		9:00 AM		 true		 true
+	4	    1575292	     8:26 AM		9:00 AM		 true		 false
+	5	    1827088	     8:26 AM		9:00 AM		 true		 false
+	6	    2078386	     8:27 AM		9:00 AM		 true		 false
+	7	    1650201	     8:28 AM		9:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	13		10	    8:40 AM	       9:10 AM       	     10			0	   100.00%	   Regular Flight      12
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1789941	     8:30 AM		9:30 AM		 true		 false
+	2	    1704658	     8:31 AM		9:30 AM		 true		 false
+	3	    1445967	     8:32 AM		9:30 AM		 true		 false
+	4	    1004175	     8:32 AM		9:30 AM		 true		 false
+	5	    2014717	     8:34 AM		9:30 AM		 true		 false
+	6	    1044637	     8:37 AM		9:30 AM		 true		 false
+	7	    1563506	     8:37 AM		9:30 AM		 true		 false
+	8	    1591633	     8:39 AM		9:30 AM		 true		 false
+	9	    1558791	     8:40 AM		9:30 AM		 true		 false
+	10	    1358797	     8:40 AM		9:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	14		10	    8:52 AM	       9:22 AM       	     10			0	   100.00%	   Regular Flight      13
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1643487	     8:41 AM		9:30 AM		 true		 false
+	2	    1130393	     8:44 AM		9:30 AM		 true		 false
+	3	    1706043	     8:45 AM		9:30 AM		 true		 false
+	4	    1933997	     8:45 AM		9:30 AM		 true		 false
+	5	    1872876	     8:45 AM		9:30 AM		 true		 false
+	6	    1974207	     8:45 AM		9:30 AM		 true		 false
+	7	    1085137	     8:46 AM		9:30 AM		 true		 false
+	8	    1942366	     8:46 AM		9:30 AM		 true		 false
+	9	    1458297	     8:50 AM		9:30 AM		 true		 false
+	10	    1639678	     8:52 AM		9:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	15		5	    9:00 AM	       9:30 AM       	     5			0	   100.00%	   Regular Flight      14
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1424132	     8:53 AM		9:30 AM		 true		 false
+	2	    2199464	     8:55 AM		9:30 AM		 true		 false
+	3	    1234046	     8:57 AM		9:30 AM		 true		 false
+	4	    1123612	     8:58 AM		9:30 AM		 true		 false
+	5	    2071002	     8:58 AM		9:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	16		10	    9:11 AM	       9:41 AM       	     10			0	   100.00%	   Regular Flight      0
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1233856	     9:02 AM		10:00 AM		 true		 false
+	2	    1572366	     9:03 AM		10:00 AM		 true		 false
+	3	    1445783	     9:03 AM		10:00 AM		 true		 false
+	4	    1512071	     9:05 AM		10:00 AM		 true		 false
+	5	    1667472	     9:06 AM		10:00 AM		 true		 false
+	6	    1949356	     9:08 AM		10:00 AM		 true		 false
+	7	    1389925	     9:08 AM		10:00 AM		 true		 false
+	8	    1124090	     9:09 AM		10:00 AM		 true		 false
+	9	    1867690	     9:09 AM		10:00 AM		 true		 false
+	10	    2131742	     9:11 AM		10:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	17		9	    9:30 AM	       10:00 AM       	     9			0	   100.00%	   Regular Flight      1
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1598611	     9:13 AM		10:00 AM		 true		 false
+	2	    1217682	     9:18 AM		10:00 AM		 true		 false
+	3	    1289904	     9:19 AM		10:00 AM		 true		 false
+	4	    1685109	     9:23 AM		10:00 AM		 true		 false
+	5	    1348338	     9:24 AM		10:00 AM		 true		 false
+	6	    1453854	     9:25 AM		10:00 AM		 true		 false
+	7	    1927331	     9:25 AM		10:00 AM		 true		 false
+	8	    1453742	     9:25 AM		10:00 AM		 true		 false
+	9	    1325295	     9:28 AM		10:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	18		10	    9:45 AM	       10:15 AM       	     10			0	   100.00%	   Regular Flight      2
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1210823	     9:30 AM		10:30 AM		 true		 false
+	2	    1763445	     9:31 AM		10:30 AM		 true		 false
+	3	    1604523	     9:35 AM		10:30 AM		 true		 false
+	4	    2198447	     9:36 AM		10:30 AM		 true		 false
+	5	    1287258	     9:36 AM		10:30 AM		 true		 false
+	6	    1698610	     9:38 AM		10:30 AM		 true		 false
+	7	    2081209	     9:39 AM		10:30 AM		 true		 false
+	8	    2033890	     9:39 AM		10:30 AM		 true		 false
+	9	    1100893	     9:43 AM		10:30 AM		 true		 false
+	10	    1995655	     9:45 AM		10:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	19		4	    10:00 AM	       10:30 AM       	     4			0	   100.00%	   Regular Flight      3
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1380440	     9:47 AM		10:30 AM		 true		 false
+	2	    2054888	     9:55 AM		10:30 AM		 true		 false
+	3	    1667791	     9:56 AM		10:30 AM		 true		 false
+	4	    1061207	     9:56 AM		10:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	20		1	    10:30 AM	       11:00 AM       	     1			0	   100.00%	   Regular Flight      4
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    2042056	     10:21 AM		11:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	21		2	    11:00 AM	       11:30 AM       	     2			0	   100.00%	   Regular Flight      5
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1867966	     10:33 AM		11:30 AM		 true		 false
+	2	    1029710	     10:41 AM		11:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	22		8	    11:30 AM	       12:00 AM       	     8			0	   100.00%	   Regular Flight      6
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1286436	     11:05 AM		12:00 AM		 true		 false
+	2	    1166141	     11:06 AM		12:00 AM		 true		 false
+	3	    1599011	     11:06 AM		12:00 AM		 true		 false
+	4	    1790355	     11:06 AM		12:00 AM		 true		 false
+	5	    1051094	     11:08 AM		12:00 AM		 true		 false
+	6	    1011100	     11:11 AM		12:00 AM		 true		 false
+	7	    1743577	     11:28 AM		12:00 AM		 true		 false
+	8	    1110033	     11:28 AM		12:00 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	23		7	    12:00 AM	       12:30 AM       	     7			0	   100.00%	   Regular Flight      7
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    2045145	     11:42 AM		12:30 AM		 true		 false
+	2	    1733611	     11:44 AM		12:30 AM		 true		 false
+	3	    1688970	     11:45 AM		12:30 AM		 true		 false
+	4	    2084930	     11:51 AM		12:30 AM		 true		 false
+	5	    1154358	     11:52 AM		12:30 AM		 true		 false
+	6	    1385311	     11:53 AM		12:30 AM		 true		 false
+	7	    2181800	     11:54 AM		12:30 AM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	24		4	    12:30 AM	       1:00 PM       	     4			0	   100.00%	   Regular Flight      8
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1328890	     12:08 AM		1:00 PM		 true		 false
+	2	    1762477	     12:10 AM		1:00 PM		 true		 false
+	3	    1861863	     12:12 AM		1:00 PM		 true		 false
+	4	    1377238	     12:24 AM		1:00 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	25		10	    1:14 PM	       1:44 PM       	     5			5	   50.00%	   Regular Flight      9
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1739181	     12:36 AM		1:30 PM		 false		 false
+	2	    1110123	     12:47 AM		1:30 PM		 false		 false
+	3	    1416965	     12:52 AM		1:30 PM		 false		 false
+	4	    1185693	     12:56 AM		1:30 PM		 false		 false
+	5	    2194377	     12:59 AM		1:30 PM		 false		 false
+	6	    1515813	     1:03 PM		2:00 PM		 true		 false
+	7	    1884298	     1:04 PM		2:00 PM		 true		 false
+	8	    1406872	     1:11 PM		2:00 PM		 true		 false
+	9	    1182033	     1:13 PM		2:00 PM		 true		 false
+	10	    1971637	     1:14 PM		2:00 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	26		10	    2:00 PM	       2:30 PM       	     7			3	   70.00%	   Regular Flight      10
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1800273	     1:15 PM		2:00 PM		 false		 false
+	2	    1971939	     1:24 PM		2:00 PM		 false		 false
+	3	    1277607	     1:29 PM		2:00 PM		 false		 false
+	4	    1846101	     1:34 PM		2:30 PM		 true		 false
+	5	    1242329	     1:36 PM		2:30 PM		 true		 false
+	6	    1595632	     1:38 PM		2:30 PM		 true		 false
+	7	    1498784	     1:41 PM		2:30 PM		 true		 false
+	8	    1954798	     1:46 PM		2:30 PM		 true		 false
+	9	    1659985	     1:56 PM		2:30 PM		 true		 false
+	10	    1124171	     2:00 PM		3:00 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	27		10	    2:41 PM	       3:11 PM       	     2			8	   20.00%	   Regular Flight      11
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1484049	     2:04 PM		3:00 PM		 false		 false
+	2	    1910740	     2:04 PM		3:00 PM		 false		 false
+	3	    1926784	     2:08 PM		3:00 PM		 false		 false
+	4	    1152457	     2:09 PM		3:00 PM		 false		 false
+	5	    1049266	     2:15 PM		3:00 PM		 false		 false
+	6	    1914679	     2:23 PM		3:00 PM		 false		 false
+	7	    1844557	     2:25 PM		3:00 PM		 false		 false
+	8	    1580153	     2:28 PM		3:00 PM		 false		 false
+	9	    1471608	     2:38 PM		3:30 PM		 true		 false
+	10	    1242163	     2:41 PM		3:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	28		10	    3:45 PM	       4:15 PM       	     3			7	   30.00%	   Regular Flight      12
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1501126	     2:43 PM		3:30 PM		 false		 false
+	2	    1392228	     2:44 PM		3:30 PM		 false		 false
+	3	    1916444	     2:49 PM		3:30 PM		 false		 false
+	4	    1384321	     3:07 PM		4:00 PM		 false		 false
+	5	    1311793	     3:14 PM		4:00 PM		 false		 false
+	6	    1403398	     3:18 PM		4:00 PM		 false		 false
+	7	    2048128	     3:26 PM		4:00 PM		 false		 false
+	8	    1959861	     3:39 PM		4:30 PM		 true		 false
+	9	    1205081	     3:45 PM		4:30 PM		 true		 false
+	10	    1984926	     3:45 PM		4:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	29		10	    4:56 PM	       5:26 PM       	     4			6	   40.00%	   Regular Flight      13
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1369504	     3:50 PM		4:30 PM		 false		 false
+	2	    2132637	     4:01 PM		5:00 PM		 false		 true
+	3	    1886566	     4:16 PM		5:00 PM		 false		 false
+	4	    1738731	     4:19 PM		5:00 PM		 false		 false
+	5	    1219677	     4:20 PM		5:00 PM		 false		 false
+	6	    1936914	     4:29 PM		5:00 PM		 false		 false
+	7	    1999829	     4:30 PM		5:30 PM		 true		 false
+	8	    1566673	     4:31 PM		5:30 PM		 true		 true
+	9	    1105482	     4:42 PM		5:30 PM		 true		 false
+	10	    1654479	     4:56 PM		5:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	30		10	    5:30 PM	       6:00 PM       	     10			0	   100.00%	   Regular Flight      14
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1243673	     5:03 PM		6:00 PM		 true		 false
+	2	    1113340	     5:04 PM		6:00 PM		 true		 false
+	3	    1301826	     5:04 PM		6:00 PM		 true		 false
+	4	    1778521	     5:04 PM		6:00 PM		 true		 false
+	5	    1942201	     5:10 PM		6:00 PM		 true		 false
+	6	    1920090	     5:11 PM		6:00 PM		 true		 false
+	7	    1789536	     5:20 PM		6:00 PM		 true		 false
+	8	    1800977	     5:25 PM		6:00 PM		 true		 false
+	9	    1867676	     5:30 PM		6:30 PM		 true		 false
+	10	    1444163	     5:30 PM		6:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	31		10	    6:11 PM	       6:41 PM       	     3			7	   30.00%	   Regular Flight      0
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    2180896	     5:35 PM		6:30 PM		 false		 true
+	2	    1622702	     5:45 PM		6:30 PM		 false		 false
+	3	    1787682	     5:47 PM		6:30 PM		 false		 false
+	4	    1788185	     5:47 PM		6:30 PM		 false		 false
+	5	    1890304	     5:51 PM		6:30 PM		 false		 false
+	6	    2159947	     5:53 PM		6:30 PM		 false		 false
+	7	    1118385	     5:54 PM		6:30 PM		 false		 false
+	8	    2092674	     6:04 PM		7:00 PM		 true		 false
+	9	    1232474	     6:08 PM		7:00 PM		 true		 false
+	10	    1123591	     6:11 PM		7:00 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	32		10	    6:59 PM	       7:29 PM       	     4			6	   40.00%	   Regular Flight      1
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1534918	     6:14 PM		7:00 PM		 false		 false
+	2	    1929693	     6:14 PM		7:00 PM		 false		 false
+	3	    1997232	     6:21 PM		7:00 PM		 false		 false
+	4	    1109289	     6:21 PM		7:00 PM		 false		 false
+	5	    1801901	     6:25 PM		7:00 PM		 false		 false
+	6	    1579436	     6:27 PM		7:00 PM		 false		 false
+	7	    1393227	     6:42 PM		7:30 PM		 true		 false
+	8	    1308379	     6:44 PM		7:30 PM		 true		 false
+	9	    2057344	     6:50 PM		7:30 PM		 true		 false
+	10	    1803928	     6:59 PM		7:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	33		10	    7:28 PM	       7:58 PM       	     10			0	   100.00%	   Regular Flight      2
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1515783	     7:03 PM		8:00 PM		 true		 false
+	2	    1186093	     7:04 PM		8:00 PM		 true		 false
+	3	    1806339	     7:04 PM		8:00 PM		 true		 false
+	4	    1631061	     7:07 PM		8:00 PM		 true		 false
+	5	    1835324	     7:13 PM		8:00 PM		 true		 false
+	6	    1559880	     7:14 PM		8:00 PM		 true		 false
+	7	    1749402	     7:16 PM		8:00 PM		 true		 false
+	8	    1623560	     7:16 PM		8:00 PM		 true		 false
+	9	    1145500	     7:25 PM		8:00 PM		 true		 false
+	10	    1304156	     7:28 PM		8:00 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	34		10	    8:14 PM	       8:44 PM       	     5			5	   50.00%	   Regular Flight      3
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1320342	     7:32 PM		8:30 PM		 false		 false
+	2	    1792332	     7:35 PM		8:30 PM		 false		 false
+	3	    1063705	     7:40 PM		8:30 PM		 false		 false
+	4	    1928791	     7:46 PM		8:30 PM		 false		 false
+	5	    1373459	     7:57 PM		8:30 PM		 false		 false
+	6	    1939516	     8:00 PM		9:00 PM		 true		 false
+	7	    1812451	     8:01 PM		9:00 PM		 true		 false
+	8	    2151013	     8:04 PM		9:00 PM		 true		 false
+	9	    1129654	     8:14 PM		9:00 PM		 true		 false
+	10	    2067084	     8:14 PM		9:00 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	35		10	    8:58 PM	       9:28 PM       	     8			2	   80.00%	   Regular Flight      4
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1511245	     8:18 PM		9:00 PM		 false		 false
+	2	    1332751	     8:27 PM		9:00 PM		 false		 false
+	3	    1838343	     8:31 PM		9:30 PM		 true		 false
+	4	    1063605	     8:31 PM		9:30 PM		 true		 false
+	5	    1599622	     8:38 PM		9:30 PM		 true		 false
+	6	    1951426	     8:40 PM		9:30 PM		 true		 false
+	7	    1536469	     8:41 PM		9:30 PM		 true		 false
+	8	    1451116	     8:42 PM		9:30 PM		 true		 false
+	9	    1249419	     8:51 PM		9:30 PM		 true		 false
+	10	    1879005	     8:58 PM		9:30 PM		 true		 false
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+    Flight	   Students	   Moved at	      Arraived at	 Cathces	    Misses	 Catch % 	 Flight Type	    BusID
+	36		6	    7:30 AM	       8:00 AM       	     6			0	   100.00%	   Regular Flight      5
+----------------------------------------------------------------------------------------------------------------------------------------------
+   Student         ID	         ShowUp Time	    Intended Arraival 	isCatch?	   HasExam?
+	1	    1500179	     9:11 PM		10:00 PM		 true		 false
+	2	    1910836	     9:14 PM		10:00 PM		 true		 false
+	3	    1654689	     9:15 PM		10:00 PM		 true		 false
+	4	    2030699	     9:19 PM		10:00 PM		 true		 false
+	5	    1459627	     9:23 PM		10:00 PM		 true		 false
+	6	    1337276	     9:29 PM		10:00 PM		 true		 false
+
+			--------------------------------------------------------------------------------------------------------------
+			 				     	   	            Bus Information:
+			--------------------------------------------------------------------------------------------------------------
+			    BusID	 Moved-Distance KM	 FuelConsumbtion L 	 Number Of Trips	Students Delivered
+			    0	           109.20	           30.00		       3		       30
+			    1	           109.20	           30.00		       3		       22
+			    2	           109.20	           30.00		       3		       30
+			    3	           109.20	           30.00		       3		       24
+			    4	           109.20	           30.00		       3		       21
+			    5	           109.20	           30.00		       3		       17
+			    6	           72.80	           20.00		       2		       18
+			    7	           72.80	           20.00		       2		       12
+			    8	           72.80	           20.00		       2		       14
+			    9	           72.80	           20.00		       2		       15
+			    10	           72.80	           20.00		       2		       20
+			    11	           72.80	           20.00		       2		       17
+			    12	           72.80	           20.00		       2		       20
+			    13	           72.80	           20.00		       2		       20
+			    14	           72.80	           20.00		       2		       15
+
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& Summary Pahse#2 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Total Catches	     Total Misses	     Total Catches%	     Total Number of Flgihts          Trasport Capacity%           Total Misses%
+        670	         203		          60.71%		  	  104			     83.94%	               39.29%
+
+Total Students Delivered	 	Total Students not Delivered	 	Total Distance KM	 	Total Fuel L          Money Wasted
+	  873		  				0		        	3785.60		           1040.00	            125.75

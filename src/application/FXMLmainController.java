@@ -1,4 +1,3 @@
-
 package application;
 
 import java.awt.Frame;
@@ -129,6 +128,35 @@ public class FXMLmainController  implements Initializable{
 	@FXML
 	private ImageView Katchup;
 
+	
+	//Explanation pop up
+	@FXML
+	private Button OpenAboutButton;
+	//Inside Explanation Window
+	@FXML
+	private TextArea AboutTextArea;
+	@FXML
+	private Button CloseAboutButton;
+		
+    //About Pop up event
+	@FXML
+	public void About(ActionEvent e) throws IOException{
+			Stage stage;
+			Parent root;
+			
+			if(e.getSource() == OpenAboutButton) {
+				stage = new Stage();
+				root = FXMLLoader.load(getClass().getResource("FXMLAbout.fxml"));
+				stage.setScene(new Scene(root));
+				stage.initModality(Modality.APPLICATION_MODAL);
+				stage.initOwner(OpenAboutButton.getScene().getWindow());
+				stage.showAndWait();
+			}else {
+				stage = (Stage) CloseAboutButton.getScene().getWindow();
+				stage.close();
+				}
+			
+		}
 
 
 	//Display the summary of the given day
@@ -169,7 +197,7 @@ public class FXMLmainController  implements Initializable{
 				+ "Total Students not Delivered: %d\t\tTotal Distance KM: %.2f\t\tTotal Fuel L: %.2f"
 				, catches, misses, perCC, flights.size(), totalStudetnsDelivered, totalStudetns - totalStudetnsDelivered, totalDistance, totalFuel);
 		DaySummaryReport.setText(daySummary);
-		DaySummaryReport.setStyle("-fx-text-fill: red; -fx-font-size: 2em;");
+		DaySummaryReport.setStyle("-fx-text-fill: red; -fx-font-size: 1.3em;");
 
 		
 	}
@@ -646,7 +674,7 @@ public class FXMLmainController  implements Initializable{
         summaryReportP1+=String.format("							%d", (int)summaryP1[4]);
         summaryReportP1+=String.format("				       %.2f", summaryP1[5]);
         summaryReportP1+=String.format("		          %.2f", summaryP1[6]);
-        summaryReportP1+=String.format("	                 %.2f1", ((summaryP1[6]*0.52)/(int)summaryP1[3]) * summaryP1[1]);
+        summaryReportP1+=String.format("	                 %.2f", ((summaryP1[6]*0.52)/(int)summaryP1[3]) * summaryP1[1]);
 
         
         
@@ -1277,10 +1305,21 @@ public class FXMLmainController  implements Initializable{
 		
 		Queue busses = new Queue(testBusses);
 		int scheduledDormDeparture;
+		int trafficTime = 0;
+		
 		for(int i = 0; i < testBusses; i++) {
 			//formula for cal the schduled dorm departure
-			scheduledDormDeparture = 30*i + 30;
+			scheduledDormDeparture = 15*i + 15;
 			busses.enqueue(new Bus(scheduledDormDeparture, i));
+			trafficTime++;
+			if(trafficTime == 16) break;
+		}
+		if(testBusses > trafficTime) {
+			for(int i = 0; i < testBusses - 16; i++) {
+				//formula for cal the schduled dorm departure
+				scheduledDormDeparture = 30*i + 270;
+				busses.enqueue(new Bus(scheduledDormDeparture, i));
+			}
 		}
 		
 		//********************LOOPS(MAIN TASK)************************

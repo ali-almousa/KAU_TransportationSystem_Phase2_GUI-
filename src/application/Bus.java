@@ -397,7 +397,10 @@ public class Bus implements Cloneable{
 			//setting the bus available time to current time + commute time to campus
 			callingBus.setAvalAt(Time.clock  + 2*currentFlight.getMINUTES_TO_KAU());
 			//setting the new schedule for the bus to make a new trip
-			callingBus.setScheduledDormDeparture(Time.clock  + 2*currentFlight.getMINUTES_TO_KAU() + 30);
+			if (callingBus.getScheduledDormDeparture() == Time.clock)
+				callingBus.setScheduledDormDeparture(Time.clock  + 2*currentFlight.getMINUTES_TO_KAU() + 30);
+			else
+				callingBus.setScheduledDormDeparture(Time.clock  + 2*currentFlight.getMINUTES_TO_KAU() + (callingBus.getScheduledDormDeparture() - Time.clock));
 			//updating the time bus departed the dorms
 			callingBus.setDormDeparture(Time.clock);
 			//updating the time the bus arrived at campus
