@@ -1401,7 +1401,7 @@ public class FXMLmainController  implements Initializable{
                     // 1- send the bus (update availability, time of arrival, time of departure, distance covered, fuel consumption, trips)
 //					System.out.println();
 					
-					bus.sendBus(days, tempStudents, flightReport, studentsAll, flightsAll);
+					bus.sendBus(days, tempStudents, flightReport, studentsAll, flightsAll, true);
                     // 3- increment the bus pointer of the array
 					busses.dequeue();
 					busses.enqueue(bus);
@@ -1418,7 +1418,7 @@ public class FXMLmainController  implements Initializable{
 					if (bus.getScheduledDormDeparture() == Time.clock) {
 	                    // 1- send the bus (update availability, time of arrival, time of departure, distance covered, fuel consumption, trips)
 //						System.out.println();
-						bus.sendBus(days, tempStudents, flightReport, studentsAll, flightsAll);
+						bus.sendBus(days, tempStudents, flightReport, studentsAll, flightsAll, true);
 	                // 3- increment the bus pointer of the array
 						busses.dequeue();
 						busses.enqueue(bus);
@@ -1434,7 +1434,7 @@ public class FXMLmainController  implements Initializable{
 							if (bus.getScheduledDormDeparture() == Time.clock) break;
 							Time.incrementClock();	
 						}
-						bus.sendBus(days, tempStudents, flightReport, studentsAll, flightsAll);
+						bus.sendBus(days, tempStudents, flightReport, studentsAll, flightsAll, true);
 						break;
 					}
 			
@@ -1474,14 +1474,39 @@ public class FXMLmainController  implements Initializable{
 		//************************BUSSES*************************
 		//send busses used for today for report list
 
+		
         //create a Queue of busses
+//		busses = new Queue(testBusses);
+//		scheduledDormDeparture = 0;
+//		for(int i = 0; i < testBusses; i++) {
+//			//formula for cal the schduled dorm departure
+//			scheduledDormDeparture = 30*i + 30;
+//			busses.enqueue(new Bus(scheduledDormDeparture, i));
+//		}
+		
+		
 		busses = new Queue(testBusses);
 		scheduledDormDeparture = 0;
+		trafficTime = 0;
+		
 		for(int i = 0; i < testBusses; i++) {
 			//formula for cal the schduled dorm departure
-			scheduledDormDeparture = 30*i + 30;
+			scheduledDormDeparture = 15*i + 15;
 			busses.enqueue(new Bus(scheduledDormDeparture, i));
+			trafficTime++;
+			if(trafficTime == 16) break;
 		}
+		if(testBusses > trafficTime) {
+			for(int i = 0; i < testBusses - 16; i++) {
+				//formula for cal the schduled dorm departure
+				scheduledDormDeparture = 30*i + 270;
+				busses.enqueue(new Bus(scheduledDormDeparture, i));
+			}
+		}
+		
+		
+		
+		
 		
 		// total catches & misses
 		int catchesOfTheDay = 0;

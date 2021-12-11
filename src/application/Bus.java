@@ -348,6 +348,46 @@ public class Bus implements Cloneable{
 		// clear the attribute flightStudents to fill it with the students of the next flight
 		callingBus.getFlightStudents().clear();
 	}
+	
+	
+	
+	/**
+	 * Send the bus to campus and conclude the flight data and update all students data 
+	 * 
+	 * @param days is the day this sending is taken place at 
+	 * @param tempStudents a temporary ArrayList of students in the whole day 
+	 * @param flightReport ArrayList of ArrayList of flights holding all data of flights and students and busses in it
+	 * @param studentsALl ArrayList of the whole students in this day with updated data
+	 * @param flightsAll ArrayList of flights holding all flights this bus had made
+	 */
+	public void sendBus(int days, ArrayList<Student> tempStudents, ArrayList<ArrayList<Flight>> flightReport, ArrayList<Student> studentsALl, ArrayList<Flight> flightsAll, boolean x) {
+		//create an object of the calling bus
+		Bus callingBus = this;
+		
+		//create a new flight to be launched and add it to tripsArray
+		Flight currentFlight = new RegularFlight();
+		
+		//set the busUsed attribute of the current flight
+		currentFlight.setBusUsed(callingBus);
+		
+		//add the current flight to the trip array
+		callingBus.addTripsArray(currentFlight);
+		
+		//update the bus data
+		Updater.updateBusData(callingBus, currentFlight);
+		
+		//update the data of the new flight that about to be launched
+		Updater.updateFlightData(callingBus, currentFlight);
+		
+		//make students in this flight miss or catch
+		Updater.updateMissCatch(callingBus, currentFlight, tempStudents, studentsALl);
+		
+		//print the launched flight data along with the students in it
+		Updater.updateFlightReport(days, currentFlight, flightReport, flightsAll);
+		
+		// clear the attribute flightStudents to fill it with the students of the next flight
+		callingBus.getFlightStudents().clear();
+	}
 	/**
 	 * deep copying the this bus
 	 */
@@ -392,6 +432,30 @@ public class Bus implements Cloneable{
 		 * @param currentFlight the flight that is being made currently
 		 */
 		public static void updateBusData(Bus callingBus, Flight currentFlight) {
+			//setting the bus as unavailable
+			callingBus.setAvailable(false);
+			//setting the bus available time to current time + commute time to campus
+			callingBus.setAvalAt(Time.clock  + 2*currentFlight.getMINUTES_TO_KAU());
+			//setting the new schedule for the bus to make a new trip
+//			if (callingBus.getScheduledDormDeparture() == Time.clock)
+				callingBus.setScheduledDormDeparture(Time.clock  + 2*currentFlight.getMINUTES_TO_KAU() + 30);
+//			else
+//				callingBus.setScheduledDormDeparture(Time.clock  + 2*currentFlight.getMINUTES_TO_KAU() + (callingBus.getScheduledDormDeparture() - Time.clock));
+			//updating the time bus departed the dorms
+			callingBus.setDormDeparture(Time.clock);
+			//updating the time the bus arrived at campus
+			callingBus.setCampusArrival(Time.clock + currentFlight.getMINUTES_TO_KAU());
+			//updating the capacity of the bus (all seats are available)
+			callingBus.setCapacity(10);
+		}
+		
+		/**
+		 * Updating the departing bus' data
+		 * 
+		 * @param callingBus the current bus moving
+		 * @param currentFlight the flight that is being made currently
+		 */
+		public static void updateBusData(Bus callingBus, Flight currentFlight, boolean x) {
 			//setting the bus as unavailable
 			callingBus.setAvailable(false);
 			//setting the bus available time to current time + commute time to campus

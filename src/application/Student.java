@@ -164,6 +164,38 @@ public class Student implements Comparable<Student>, Cloneable{
 	 * @return Intended Arrival Time to the campus
 	 */
 	public int randomIntendedArrivalTime() {
+		
+//		double rand = Math.random();
+//		double rand2= Math.random();
+//		int randomTime ;
+//		//More random student in the rush hour between 6:00 AM - 10:00 AM 
+//		if (rand <= 0.28) {
+//			  randomTime = (int) (rand * ( 32 ) + 1) * 30;
+//			  if (randomTime == 960) {
+//				  return randomTime;
+//			  } else if (randomTime < 60) {
+//				  return randomTime + 60;
+//			  }else 
+//				  return randomTime;			  
+//	    // Make the random range between 0 - 1
+//		}else
+//
+//			if (rand2<= 0.28) {
+//				  randomTime = (int) (rand2 * ( 32 ) + 1) * 30;
+//				  if (randomTime == 960) {
+//					  return randomTime;
+//				  } else if (randomTime < 60) {
+//					  return randomTime + 60;
+//				  }else 
+//					  return randomTime;	}else {
+//				  randomTime = (int) (Math.random() * ( 32 ) + 1) * 30;
+//				  if (randomTime == 960) {
+//					  return randomTime;
+//				  } else if (randomTime < 60) {
+//					  return randomTime + 60;
+//				  }else 
+//					  return randomTime;  
+//					  }
 		double rand = Math.random();
 		int randomTime ;
 		//More random student in the rush hour between 6:00 AM - 10:00 AM 
@@ -226,16 +258,6 @@ public class Student implements Comparable<Student>, Cloneable{
     	//shallow copy
         return super.clone();
     }
-    
-    //deep copy
-//    public Student clone(){
-//    	Student p = new Student();
-//        p.hasExam = this.hasExam;
-//        p.id = this.id;
-//        p.intendedArrivalTime = this.intendedArrivalTime;
-//        p.isCatch = this.isCatch;
-//        p.showupTime = this.showupTime;
-//        return p;
-//    }
+
 
 }
